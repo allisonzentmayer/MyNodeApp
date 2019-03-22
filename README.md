@@ -8,7 +8,6 @@ To run the app:
 
 `node app.js` OR `nodemon app.js` for live reload during development
 
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Coming soon in next release:
 - Caching
